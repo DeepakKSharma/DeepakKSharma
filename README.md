@@ -34,7 +34,7 @@ Senior .NET Developer with 11+ years of experience building enterprise web appli
 - **Frontend:** Vue.js, TypeScript, JavaScript, jQuery, Bootstrap, Kendo UI
 - **Reporting:** Telerik Reporting, Crystal Reports
 - **AI:** OpenAI API, Microsoft.Extensions.AI, Claude Code
-- **Tools:** Git, Azure DevOps, Visual Studio, Swagger, Serilog
+- **Tools:** Git, GitHub, Azure DevOps, Visual Studio, Swagger, Serilog
 
 ## Awards
 
