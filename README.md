@@ -27,14 +27,15 @@ Senior .NET Developer with 11+ years of experience building enterprise web appli
 
 ## Tech stack
 
-- **Backend:** C#, .NET 6/8/10, ASP.NET Core Web API, Minimal APIs, ASP.NET MVC, Windows Services
-- **Database:** SQL Server, T-SQL, Entity Framework Core, Dapper
-- **Messaging and real time:** RabbitMQ, MassTransit, SignalR, Hangfire
+- **Backend:** C#, .NET 6/8/10, .NET Framework, ASP.NET Core Web API, Minimal APIs, ASP.NET MVC, Web Forms, WCF, WinForms, Windows Services
+- **Database:** SQL Server, T-SQL, query optimization, Entity Framework Core, Dapper, ADO.NET
+- **Messaging and real time:** RabbitMQ, MassTransit, event-driven architecture, SignalR, Hangfire
 - **Security:** JWT, OAuth 2.0, ASP.NET Identity, role-based authorization
 - **Frontend:** Vue.js, TypeScript, JavaScript, jQuery, Bootstrap, Kendo UI
 - **Reporting:** Telerik Reporting, Crystal Reports
-- **AI:** OpenAI API, Microsoft.Extensions.AI, Claude Code
-- **Tools:** Git, GitHub, Azure DevOps, Visual Studio, Swagger, Serilog
+- **AI:** OpenAI API, Microsoft.Extensions.AI, LLM integration, GitHub Copilot, ChatGPT, Claude, Claude Code
+- **DevOps and tools:** Git, GitHub, Azure DevOps, CI/CD pipelines, SonarQube, IIS, Visual Studio, Swagger, Serilog
+- **Practices:** SOLID, design patterns, dependency injection, code review, Agile/Scrum
 
 ## Awards
 
