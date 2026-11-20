@@ -22,7 +22,7 @@ Senior .NET Developer with 11+ years of experience building enterprise web appli
 
 ## Contact
 
-- LinkedIn: [deepak-kumar-sharma-62a370191](https://www.linkedin.com/in/deepak-kumar-sharma-62a370191/)
+- LinkedIn: [deepakksharma-dev](https://www.linkedin.com/in/deepakksharma-dev/)
 - Email: dks.softedge@gmail.com
 
 Client project code is private, so it is not shared here.
